@@ -24,7 +24,7 @@ tntmiscs: Eh50B04phXI
 
 ## Demo Videos
 
-### Targeted Attack with an input-agnostic Natural Adversarial Patch (TnT), an example *flower*, from the Natural Adversarial Patch Generator - PubFig Face Recognition Task
+### Targeted Attack with an input-agnostic TnT, an example *flower*, from the TnT Generator - PubFig Face Recognition Task
 
 #### The effectiveness of an example *flower* TnT 
 
@@ -40,7 +40,7 @@ tntmiscs: Eh50B04phXI
 
 
 
-### Targeted Attack with an Input-Agnostic *flower* Trigger from the Natural Adversarial Patch Generator - ImageNet classification task
+### Targeted Attack with an Input-Agnostic *flower* Trigger from the TnT Generator - ImageNet classification task
 
 #### The effectiveness of an example *flower* TnT 
 <a name="TnTImagenetEffect"></a>
